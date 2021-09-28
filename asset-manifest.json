@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/simple-react-page/static/css/main.f6c48f2d.chunk.css",
+    "main.js": "/simple-react-page/static/js/main.e2f48cd1.chunk.js",
+    "main.js.map": "/simple-react-page/static/js/main.e2f48cd1.chunk.js.map",
+    "runtime-main.js": "/simple-react-page/static/js/runtime-main.299255fe.js",
+    "runtime-main.js.map": "/simple-react-page/static/js/runtime-main.299255fe.js.map",
+    "static/js/2.49965f83.chunk.js": "/simple-react-page/static/js/2.49965f83.chunk.js",
+    "static/js/2.49965f83.chunk.js.map": "/simple-react-page/static/js/2.49965f83.chunk.js.map",
+    "static/js/3.bf1734e7.chunk.js": "/simple-react-page/static/js/3.bf1734e7.chunk.js",
+    "static/js/3.bf1734e7.chunk.js.map": "/simple-react-page/static/js/3.bf1734e7.chunk.js.map",
+    "index.html": "/simple-react-page/index.html",
+    "static/css/main.f6c48f2d.chunk.css.map": "/simple-react-page/static/css/main.f6c48f2d.chunk.css.map",
+    "static/js/2.49965f83.chunk.js.LICENSE.txt": "/simple-react-page/static/js/2.49965f83.chunk.js.LICENSE.txt",
+    "static/media/finnish.44971544.jpeg": "/simple-react-page/static/media/finnish.44971544.jpeg",
+    "static/media/frames.e0ef27ec.webp": "/simple-react-page/static/media/frames.e0ef27ec.webp",
+    "static/media/hacksaw.751dcbc8.webp": "/simple-react-page/static/media/hacksaw.751dcbc8.webp",
+    "static/media/pattern.8a700ab2.webp": "/simple-react-page/static/media/pattern.8a700ab2.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.299255fe.js",
+    "static/js/2.49965f83.chunk.js",
+    "static/css/main.f6c48f2d.chunk.css",
+    "static/js/main.e2f48cd1.chunk.js"
+  ]
+}
