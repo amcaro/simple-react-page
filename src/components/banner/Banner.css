@@ -1,0 +1,10 @@
+.main-banner {
+    width: 100%;
+}
+
+.main-banner h1 {
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
